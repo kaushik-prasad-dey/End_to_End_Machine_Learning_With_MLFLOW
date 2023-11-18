@@ -1,4 +1,4 @@
-1. first task our virtual environment is created via bash script
+1. first task our virtual environment is created via bash script command bash init_setup.sh
 2.pip list to show the dependencies which is running via pip .
 3. we have to activate the env.
 4. please make sure this all commands are not working in windows env.
@@ -9,3 +9,19 @@ it will show the output and we can run this test.py via python test.py
 8. we have to execute this template.py file.
 9. run via python template.py
 10. now i am going to add in my repo.
+11. to add the packages in your pip list (src is your local packages)/dimondpriceprediction
+12. python setup.py install.
+13. you can also uninstall your DimondPriceprediction via [pip uninstall DimondPriceprediction]
+Successfully uninstalled DimondPricePrediction-0.0.1
+14. pip list then it will never come in your pip list command. 
+15. -e . so we can edit and add all . means all here.
+#another way you can mention -e . in your requirments file and you can run
+16. pip install -r requirements.txt
+============THIS IS MODULAR STRUCTURE CODING AND REUSEABLE COMPONENTS===============
+============ITS YOUR CONTROL AND YOU CAN MANAGE THE SCALABILITY OF YOUR APPLICATION====
+
+FOLDER|| PACKAGE 
+MODULE
+-TEMPLATE.PY
+add panadas, sklean 
+
