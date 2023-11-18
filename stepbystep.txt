@@ -1,0 +1,11 @@
+1. first task our virtual environment is created via bash script
+2.pip list to show the dependencies which is running via pip .
+3. we have to activate the env.
+4. please make sure this all commands are not working in windows env.
+5. template.py file and add all the files and folder script.
+6. if my script will run then componenents, pipelines and utils folder will be created.
+7. for your understanding purpose of path(core module) module i just create one test.py and
+it will show the output and we can run this test.py via python test.py  
+8. we have to execute this template.py file.
+9. run via python template.py
+10. now i am going to add in my repo.
